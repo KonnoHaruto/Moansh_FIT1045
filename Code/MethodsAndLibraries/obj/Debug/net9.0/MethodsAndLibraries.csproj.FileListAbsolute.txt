@@ -1,0 +1,17 @@
+/Users/konnoharuto/field_guide/Code/MethodsAndLibraries/bin/Debug/net9.0/MethodsAndLibraries
+/Users/konnoharuto/field_guide/Code/MethodsAndLibraries/bin/Debug/net9.0/MethodsAndLibraries.deps.json
+/Users/konnoharuto/field_guide/Code/MethodsAndLibraries/bin/Debug/net9.0/MethodsAndLibraries.runtimeconfig.json
+/Users/konnoharuto/field_guide/Code/MethodsAndLibraries/bin/Debug/net9.0/MethodsAndLibraries.dll
+/Users/konnoharuto/field_guide/Code/MethodsAndLibraries/bin/Debug/net9.0/MethodsAndLibraries.pdb
+/Users/konnoharuto/field_guide/Code/MethodsAndLibraries/bin/Debug/net9.0/SplashKitSDK.dll
+/Users/konnoharuto/field_guide/Code/MethodsAndLibraries/obj/Debug/net9.0/MethodsAndLibraries.csproj.AssemblyReference.cache
+/Users/konnoharuto/field_guide/Code/MethodsAndLibraries/obj/Debug/net9.0/MethodsAndLibraries.GeneratedMSBuildEditorConfig.editorconfig
+/Users/konnoharuto/field_guide/Code/MethodsAndLibraries/obj/Debug/net9.0/MethodsAndLibraries.AssemblyInfoInputs.cache
+/Users/konnoharuto/field_guide/Code/MethodsAndLibraries/obj/Debug/net9.0/MethodsAndLibraries.AssemblyInfo.cs
+/Users/konnoharuto/field_guide/Code/MethodsAndLibraries/obj/Debug/net9.0/MethodsAndLibraries.csproj.CoreCompileInputs.cache
+/Users/konnoharuto/field_guide/Code/MethodsAndLibraries/obj/Debug/net9.0/MethodsA.362D81A8.Up2Date
+/Users/konnoharuto/field_guide/Code/MethodsAndLibraries/obj/Debug/net9.0/MethodsAndLibraries.dll
+/Users/konnoharuto/field_guide/Code/MethodsAndLibraries/obj/Debug/net9.0/refint/MethodsAndLibraries.dll
+/Users/konnoharuto/field_guide/Code/MethodsAndLibraries/obj/Debug/net9.0/MethodsAndLibraries.pdb
+/Users/konnoharuto/field_guide/Code/MethodsAndLibraries/obj/Debug/net9.0/MethodsAndLibraries.genruntimeconfig.cache
+/Users/konnoharuto/field_guide/Code/MethodsAndLibraries/obj/Debug/net9.0/ref/MethodsAndLibraries.dll

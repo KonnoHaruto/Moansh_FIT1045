@@ -1,0 +1,17 @@
+/Users/konnoharuto/field_guide/Code/variable/bin/Debug/net9.0/variable
+/Users/konnoharuto/field_guide/Code/variable/bin/Debug/net9.0/variable.deps.json
+/Users/konnoharuto/field_guide/Code/variable/bin/Debug/net9.0/variable.runtimeconfig.json
+/Users/konnoharuto/field_guide/Code/variable/bin/Debug/net9.0/variable.dll
+/Users/konnoharuto/field_guide/Code/variable/bin/Debug/net9.0/variable.pdb
+/Users/konnoharuto/field_guide/Code/variable/bin/Debug/net9.0/SplashKitSDK.dll
+/Users/konnoharuto/field_guide/Code/variable/obj/Debug/net9.0/variable.csproj.AssemblyReference.cache
+/Users/konnoharuto/field_guide/Code/variable/obj/Debug/net9.0/variable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/konnoharuto/field_guide/Code/variable/obj/Debug/net9.0/variable.AssemblyInfoInputs.cache
+/Users/konnoharuto/field_guide/Code/variable/obj/Debug/net9.0/variable.AssemblyInfo.cs
+/Users/konnoharuto/field_guide/Code/variable/obj/Debug/net9.0/variable.csproj.CoreCompileInputs.cache
+/Users/konnoharuto/field_guide/Code/variable/obj/Debug/net9.0/variable.csproj.Up2Date
+/Users/konnoharuto/field_guide/Code/variable/obj/Debug/net9.0/variable.dll
+/Users/konnoharuto/field_guide/Code/variable/obj/Debug/net9.0/refint/variable.dll
+/Users/konnoharuto/field_guide/Code/variable/obj/Debug/net9.0/variable.pdb
+/Users/konnoharuto/field_guide/Code/variable/obj/Debug/net9.0/variable.genruntimeconfig.cache
+/Users/konnoharuto/field_guide/Code/variable/obj/Debug/net9.0/ref/variable.dll

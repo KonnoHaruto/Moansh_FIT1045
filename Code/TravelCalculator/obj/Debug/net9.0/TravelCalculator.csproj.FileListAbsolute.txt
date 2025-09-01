@@ -1,0 +1,17 @@
+/Users/konnoharuto/field_guide/Code/TravelCalculator/bin/Debug/net9.0/TravelCalculator
+/Users/konnoharuto/field_guide/Code/TravelCalculator/bin/Debug/net9.0/TravelCalculator.deps.json
+/Users/konnoharuto/field_guide/Code/TravelCalculator/bin/Debug/net9.0/TravelCalculator.runtimeconfig.json
+/Users/konnoharuto/field_guide/Code/TravelCalculator/bin/Debug/net9.0/TravelCalculator.dll
+/Users/konnoharuto/field_guide/Code/TravelCalculator/bin/Debug/net9.0/TravelCalculator.pdb
+/Users/konnoharuto/field_guide/Code/TravelCalculator/bin/Debug/net9.0/SplashKitSDK.dll
+/Users/konnoharuto/field_guide/Code/TravelCalculator/obj/Debug/net9.0/TravelCalculator.csproj.AssemblyReference.cache
+/Users/konnoharuto/field_guide/Code/TravelCalculator/obj/Debug/net9.0/TravelCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/konnoharuto/field_guide/Code/TravelCalculator/obj/Debug/net9.0/TravelCalculator.AssemblyInfoInputs.cache
+/Users/konnoharuto/field_guide/Code/TravelCalculator/obj/Debug/net9.0/TravelCalculator.AssemblyInfo.cs
+/Users/konnoharuto/field_guide/Code/TravelCalculator/obj/Debug/net9.0/TravelCalculator.csproj.CoreCompileInputs.cache
+/Users/konnoharuto/field_guide/Code/TravelCalculator/obj/Debug/net9.0/TravelCa.6C011402.Up2Date
+/Users/konnoharuto/field_guide/Code/TravelCalculator/obj/Debug/net9.0/TravelCalculator.dll
+/Users/konnoharuto/field_guide/Code/TravelCalculator/obj/Debug/net9.0/refint/TravelCalculator.dll
+/Users/konnoharuto/field_guide/Code/TravelCalculator/obj/Debug/net9.0/TravelCalculator.pdb
+/Users/konnoharuto/field_guide/Code/TravelCalculator/obj/Debug/net9.0/TravelCalculator.genruntimeconfig.cache
+/Users/konnoharuto/field_guide/Code/TravelCalculator/obj/Debug/net9.0/ref/TravelCalculator.dll

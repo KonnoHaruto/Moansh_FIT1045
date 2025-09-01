@@ -1,0 +1,17 @@
+/Users/konnoharuto/field_guide/Code/calculator/bin/Debug/net9.0/calculator
+/Users/konnoharuto/field_guide/Code/calculator/bin/Debug/net9.0/calculator.deps.json
+/Users/konnoharuto/field_guide/Code/calculator/bin/Debug/net9.0/calculator.runtimeconfig.json
+/Users/konnoharuto/field_guide/Code/calculator/bin/Debug/net9.0/calculator.dll
+/Users/konnoharuto/field_guide/Code/calculator/bin/Debug/net9.0/calculator.pdb
+/Users/konnoharuto/field_guide/Code/calculator/bin/Debug/net9.0/SplashKitSDK.dll
+/Users/konnoharuto/field_guide/Code/calculator/obj/Debug/net9.0/calculator.csproj.AssemblyReference.cache
+/Users/konnoharuto/field_guide/Code/calculator/obj/Debug/net9.0/calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/konnoharuto/field_guide/Code/calculator/obj/Debug/net9.0/calculator.AssemblyInfoInputs.cache
+/Users/konnoharuto/field_guide/Code/calculator/obj/Debug/net9.0/calculator.AssemblyInfo.cs
+/Users/konnoharuto/field_guide/Code/calculator/obj/Debug/net9.0/calculator.csproj.CoreCompileInputs.cache
+/Users/konnoharuto/field_guide/Code/calculator/obj/Debug/net9.0/calculator.csproj.Up2Date
+/Users/konnoharuto/field_guide/Code/calculator/obj/Debug/net9.0/calculator.dll
+/Users/konnoharuto/field_guide/Code/calculator/obj/Debug/net9.0/refint/calculator.dll
+/Users/konnoharuto/field_guide/Code/calculator/obj/Debug/net9.0/calculator.pdb
+/Users/konnoharuto/field_guide/Code/calculator/obj/Debug/net9.0/calculator.genruntimeconfig.cache
+/Users/konnoharuto/field_guide/Code/calculator/obj/Debug/net9.0/ref/calculator.dll

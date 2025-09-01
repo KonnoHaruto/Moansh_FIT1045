@@ -1,0 +1,17 @@
+/Users/konnoharuto/field_guide/Code/HelloGui/bin/Debug/net9.0/HelloGui
+/Users/konnoharuto/field_guide/Code/HelloGui/bin/Debug/net9.0/HelloGui.deps.json
+/Users/konnoharuto/field_guide/Code/HelloGui/bin/Debug/net9.0/HelloGui.runtimeconfig.json
+/Users/konnoharuto/field_guide/Code/HelloGui/bin/Debug/net9.0/HelloGui.dll
+/Users/konnoharuto/field_guide/Code/HelloGui/bin/Debug/net9.0/HelloGui.pdb
+/Users/konnoharuto/field_guide/Code/HelloGui/bin/Debug/net9.0/SplashKitSDK.dll
+/Users/konnoharuto/field_guide/Code/HelloGui/obj/Debug/net9.0/HelloGui.csproj.AssemblyReference.cache
+/Users/konnoharuto/field_guide/Code/HelloGui/obj/Debug/net9.0/HelloGui.GeneratedMSBuildEditorConfig.editorconfig
+/Users/konnoharuto/field_guide/Code/HelloGui/obj/Debug/net9.0/HelloGui.AssemblyInfoInputs.cache
+/Users/konnoharuto/field_guide/Code/HelloGui/obj/Debug/net9.0/HelloGui.AssemblyInfo.cs
+/Users/konnoharuto/field_guide/Code/HelloGui/obj/Debug/net9.0/HelloGui.csproj.CoreCompileInputs.cache
+/Users/konnoharuto/field_guide/Code/HelloGui/obj/Debug/net9.0/HelloGui.csproj.Up2Date
+/Users/konnoharuto/field_guide/Code/HelloGui/obj/Debug/net9.0/HelloGui.dll
+/Users/konnoharuto/field_guide/Code/HelloGui/obj/Debug/net9.0/refint/HelloGui.dll
+/Users/konnoharuto/field_guide/Code/HelloGui/obj/Debug/net9.0/HelloGui.pdb
+/Users/konnoharuto/field_guide/Code/HelloGui/obj/Debug/net9.0/HelloGui.genruntimeconfig.cache
+/Users/konnoharuto/field_guide/Code/HelloGui/obj/Debug/net9.0/ref/HelloGui.dll
