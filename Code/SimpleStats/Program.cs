@@ -16,7 +16,7 @@ while (true)
 {
     Write("Enter value: ");
     line = ReadLine();
-    value = ToInt32(line);
+    value = ToDouble(line);
     count++;
     total += value;
     if (count == 1)
