@@ -1,24 +1,9 @@
 #include "splashkit.h"
+#include "utilities.h"
 
 using std::stoi;
 using std::to_string;
 
-string read_string(string prompt)
-{
-    write(prompt);
-    return read_line();
-}
-
-int read_integer(string prompt)
-{
-    string input = read_string(prompt);
-    while(! is_integer(input))
-    {
-        write_line("Please enter a whole number.");
-        input = read_string(prompt);
-    }
-    return stoi(input);
-}
 
 int read_integer_range(string prompt, int low, int high)
 {
