@@ -20,4 +20,13 @@ string read_string(string prompt);
  */
 int read_integer(string prompt);
 
+/**
+ * 
+ * @param prompt the message to show the user
+ * @param low upper range for the input
+ * @param high lower range for the input
+ * @returns the integer entered under the condition (range)
+ */
+int read_integer_range(string prompt, int low, int high);
+
 #endif
