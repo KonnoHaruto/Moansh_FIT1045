@@ -57,13 +57,36 @@ void print_user(user_data user)
     write_line(" Role: " + to_string(user.role));
 }
 
-//TODO: 機能追加
+
 void update_user(user_data &user)
 {
-    write_line(" Update user details: ");
-    user.username = read_string(" Username: ");
-    user.password = read_string(" Password: ");
-    user.role = read_role();
+    bool updating = true;
+    while (updating)
+    {
+        print_user(user);
+        write_line("What would you like to update?");
+        write_line("1. Username");
+        write_line("2. Role");
+        write_line("0. Exit");
+
+        int choice = read_integer_range("Enter your choice: ", 0, 2);
+
+        switch(choice)
+        {
+            case 0:
+            updating = false;
+            break;
+            case 1:
+            user.username = read_string("Enter new username: ");
+            break;
+            case 2:
+            user.role = read_role();
+            break;
+            default:
+            write_line("Invalid choice. Please try again.");
+            break;
+        }
+    }
 }
 
 
